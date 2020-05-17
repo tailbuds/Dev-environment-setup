@@ -13,6 +13,16 @@
 1. Chrome
 2. Code editor like VS Code
 3. Postman
+4. Node JS Stable
+5. MongoDB Compass
+6. MySQL WorkBench
+
+### For windows
+1. Putty(SSH Terminal)
+2. Winscps(GUI for Remote)
+
+### For Mac and Linux
+1. SSH client (any)
 
 ## Optional Programs
 
